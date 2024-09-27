@@ -45,35 +45,8 @@ const Home = () => {
             </div>
         </div>    
       </div>
-    
-      
-      <div>
-        <div className="container">
-          <Title subTitle='For Businesses' title='Our Pricing Plans'/>
-            {/* Cards here */}
-            <div className="pricing-cards">
-              <Pricing
-                title="Free"
-                price= "0"
-                storage="MCQ Test"
-                users="AI Video Interview"
-                sendUp="AI Resume Builder"
-                users2= "Job Matching"
-              />
-              
-              <Pricing
-                title="Premium"
-                price="1725"
-                storage="3 Attempts/ Reexam"
-                users="Salary Starting From First Year: 2.4 LPA"
-                sendUp="Second Year: 6 LPA"
-                users2= "Third Year: 9 LPA"
-              />
-            </div>
-        </div>
-        <Features2/>    
-      </div>
-      
+         
+           
       <Footer/>
       
     </div>
