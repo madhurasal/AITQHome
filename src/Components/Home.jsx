@@ -36,11 +36,11 @@ const Home = () => {
               
               <Pricing
                 title="Premium"
-                price="1725"
-                storage="3 Attempts/ Reexam"
-                users="Salary Starting From First Year: 2.4 LPA"
-                sendUp="Second Year: 6 LPA"
-                users2= "Third Year: 9 LPA"
+                price="2000"
+                storage="Unlimited Attempts"
+                users="Salary Starting From 0 To 3 Years: 3 LPA"
+                sendUp="3 To 6 Year: 6 LPA"
+                users2= "6 To 9 Year: 9 LPA"
               />
             </div>
         </div>    
