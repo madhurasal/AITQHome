@@ -37,7 +37,7 @@ const Home = () => {
               <Pricing
                 title="Premium"
                 price="2000"
-                storage="Unlimited Attempts"
+                storage="MCQ Test"
                 users="Salary Starting From 0 To 3 Years: 3 LPA"
                 sendUp="3 To 6 Year: 6 LPA"
                 users2= "6 To 9 Year: 9 LPA"
